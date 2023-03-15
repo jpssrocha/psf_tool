@@ -1,2 +1,4 @@
-# psf_tool
-A simple tool to perform PSF photometry on a sequence of astronomical FITS images in parallel.
+# psf_phot
+
+This is a minimal script to perform PSF photometry in parallel using
+multiprocessing.
